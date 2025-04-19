@@ -1,0 +1,33 @@
+ *{
+margin:0%;
+padding: 0%;
+ }
+ html,body{
+  width: 100%;
+  height: 100%;
+ }
+ body{
+  background-color: rgb(219, 97, 15);
+  
+ }
+ #box1{
+  background-color: rgb(14, 177, 49);
+  width: 20%;
+  height: 20%;
+  border-style: dotted;
+  border-radius: 50%;
+  border-width: 3px;
+ }
+
+ #box2{
+  background-color: rgb(80, 17, 238);
+  width: 30%;
+  height: 30%;
+  border-radius: 50%;
+ }
+
+ 
+
+
+ 
+ 
